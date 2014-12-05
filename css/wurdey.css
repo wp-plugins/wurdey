@@ -1,0 +1,44 @@
+div.wurdey_activation{
+    font-size: 17px;
+    border-left: 4px solid #dd3d36;
+    margin: 5px 0 20px;
+    background-color: #00bef3;
+    color:#ffffff;
+    position: relative;
+    height: 70px;
+    vertical-align: middle;
+    box-sizing: content-box;
+    padding: 0px 25px 0px 25px;
+}
+
+div.wurdey_activation > *{
+    top: 50%;
+    transform: translateY(-50%);
+    position: relative;
+}
+
+.wurdey_activation img.logo{
+    margin-right: -33px;
+}
+
+.wurdey_activation>span{
+    display: inline-block;
+}
+
+a.wurdey-button{
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    padding: 13px;
+    border: 1px solid #ffffff;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.right{
+    float: right;
+}

@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wurdey Child v0.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-11-15 14:03:35+0000\n"
+"Last-Translator: admin <support@wurdey.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Serbian (Cyrillic)\n"
+"X-Poedit-Country: SERBIA AND MONTENEGRO\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class/WurdeyChild.class.php:132
+#: class/WurdeyChild.class.php:154
+#@ wurdey-child
+msgid "Wurdey Settings"
+msgstr "Wurdey Podešavanje"
+
+#: class/WurdeyChild.class.php:158
+#@ wurdey-child
+msgid "Connection Settings"
+msgstr "Podešavanje konekcije"
+
+#: class/WurdeyChild.class.php:166
+#@ wurdey-child
+msgid "Require Unique Security ID"
+msgstr "Zahtev za jedinstveni sigurnosni ključ"
+
+#: class/WurdeyChild.class.php:169
+#@ wurdey-child
+msgid "Your Unique Security ID is:"
+msgstr "Vaš jedinstveni sigurnosni ključ je:"
+
+#: class/WurdeyChild.class.php:173
+#@ wurdey-child
+msgid "The Unique Security ID adds additional protection between the Child plugin and your<br/>Main Dashboard. The Unique Security ID will need to match when being added to <br/>the Main Dashboard. This is additional security and should not be needed in most situations."
+msgstr "Jedinstveni sigurnosni ključ obezbeđuje dodatnu zaštitu između sajta i kontrolne table.<br/> Jedinstveni sigurnosni ključ se mora poklapati prilikom dodavanja sajta u kontrolnu tablu. <br/> Ova dodatna sigrnosna opcija, u većini slučajeva nije potrebna."
+
+#: class/WurdeyChild.class.php:179
+#@ wurdey-child
+msgid "Save Changes"
+msgstr "Sačuvaj Promene"
+
+#: class/WurdeyChild.class.php:424
+#@ wurdey-child
+msgid "Authentication failed. Reinstall Wurdey plugin please"
+msgstr "Autentifikacija neuspešna. Molimo, reinstalirajte Wurdey."
+
+#: class/WurdeyChild.class.php:433
+#: class/WurdeyChild.class.php:787
+#@ wurdey-child
+msgid "No such user"
+msgstr "Nepostojeći korisnik"
+
+#: class/WurdeyChild.class.php:438
+#: class/WurdeyChild.class.php:791
+#@ wurdey-child
+msgid "User is not an administrator"
+msgstr "Korisnik nema administratorske privilegije."
+
+#: class/WurdeyChild.class.php:528
+#@ wurdey-child
+msgid "Bad request."
+msgstr "Loš zahtev."
+
+#: class/WurdeyChild.class.php:699
+#: class/WurdeyChild.class.php:704
+#: class/WurdeyChild.class.php:736
+#: class/WurdeyChild.class.php:741
+#: class/WurdeyChild.class.php:746
+#@ wurdey-child
+msgid "Bad request"
+msgstr "Loš zahtev."
+
+#: class/WurdeyChild.class.php:761
+#@ wurdey-child
+msgid "Invalid request"
+msgstr "Nevažeći zahtev."
+
+#: class/WurdeyChild.class.php:767
+#@ wurdey-child
+msgid "Public key already set, reset the Wurdey plugin on your site and try again."
+msgstr "Javni ključ je već podešen, resetujte Wurdey na sajtu i pokušajte ponovo."
+
+#: class/WurdeyChild.class.php:774
+#@ wurdey-child
+msgid "This Child Site is set to require a Unique Security ID - Please Enter It before connection can be established."
+msgstr "Jedinstveni sigurnosni ključ je potreban za ovaj sajt - Molimo, unesite ključ kako bi konekcija mogla biti uspostavljena."
+
+#: class/WurdeyChild.class.php:778
+#@ wurdey-child
+msgid "The Unique Security ID you have entered does not match Child Security ID - Please Correct It before connection can be established."
+msgstr "Jedinstveni sigurnosni ključ koji ste uneli se ne poklapa sa ključem na sajtu - Molimo, ispravite ključ kako bi konekcija mogla biti uspostavljena."
+
+#: class/WurdeyChild.class.php:1036
+#@ wurdey-child
+msgid "Could not change the admin password."
+msgstr "Administratorska šifra nije mogla biti promenjena."
+
+#: class/WurdeyChild.class.php:1058
+#@ wurdey-child
+msgid "Undefined error"
+msgstr "Nedefinisana greška"
+
+#: class/WurdeyChild.class.php:1072
+#, php-format
+#@ default
+msgid "Username: %s"
+msgstr "Korisnično ime: %s"
+
+#: class/WurdeyChild.class.php:1073
+#, php-format
+#@ default
+msgid "Password: %s"
+msgstr "Lozinka: %s"
+
+#: class/WurdeyChild.class.php:1076
+#, php-format
+#@ default
+msgid "[%s] Your username and password"
+msgstr "[%s] Vaše korisničko ime i lozinka"
+
+#: class/WurdeyChild.class.php:2326
+#@ wurdey-child
+msgid "This site already contains a link - please disable and enable the Wurdey plugin."
+msgstr "Saj već poseduje link - Molimo, deaktivirajte, pa ponovo aktivirajte Wurdey"
+
+#: class/WurdeyChild.class.php:2433
+#@ wurdey-child
+msgid "Wordpress Filesystem error: "
+msgstr "WordPress sistemska greška: "
+
+#: class/WurdeyClone.class.php:70
+#@ wurdey-child
+msgid "File could not be uploaded."
+msgstr "Datoteka nije mogla biti uploadovana."
+
+#: class/WurdeyClone.class.php:75
+#@ wurdey-child
+msgid "File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr "Datoteka je prazna. Molimo, uplodujte validnu datoteku. Do ove greške moglo je doći ako je upload zabranjen u Vašoj php.ini datoteci ili ako je post_max_size definisan kao manji od upload_max_filesize u php.ini datoteci."
+
+#: class/WurdeyClone.class.php:84
+#@ wurdey-child
+msgid "Clone or Restore"
+msgstr "Kloniranje ili Vratite prethodno stanje"
+
+#: class/WurdeyClone.class.php:88
+#@ wurdey-child
+msgid "Cloning is currently off - To turn on return to your main dashboard and turn cloning on on the Migrate/Clone page."
+msgstr "Kloniranje je trenutno isključeno - da biste omogućili kloniranje, vratite se na Kontrolni sajt i uključite kloniranje na stranici Kloniranje."
+
+#: class/WurdeyClone.class.php:94
+#@ wurdey-child
+msgid "Your content directory is not writable. Please set 0755 permission to "
+msgstr "Direktorium u kome se nalazi Vaš sadržaj nije upisiv. Molimo, podesite ovlašćenja na 0755. "
+
+#: class/WurdeyClone.class.php:98
+#@ wurdey-child
+msgid "Cloning process completed successfully! You will now need to click"
+msgstr "Proces kloniranja uspešno završen! Potrebno je da kliknete"
+
+#: class/WurdeyClone.class.php:98
+#: class/WurdeyClone.class.php:956
+#@ wurdey-child
+msgid "here"
+msgstr "ovde"
+
+#: class/WurdeyClone.class.php:98
+#@ wurdey-child
+msgid " to re-login to the admin and re-save permalinks."
+msgstr "da biste se logovali i opet podesili linkove."
+
+#: class/WurdeyClone.class.php:103
+#@ wurdey-child
+msgid "Upload successful."
+msgstr "Upload uspešan."
+
+#: class/WurdeyClone.class.php:103
+#: class/WurdeyClone.class.php:153
+#@ wurdey-child
+msgid "Clone/Restore Website"
+msgstr "Klonira/Vrati Sajt"
+
+#: class/WurdeyClone.class.php:114
+#@ wurdey-child
+msgid "Cloning is currently on but no sites have been allowed, to allow sites return to your main dashboard and turn cloning on on the Migrate/Clone page."
+msgstr "Kloniranje je trenutno uključeno, ali nema sajtova sa ovlašćenjem za kloniranje. Da biste omogućili sajtu da bude kloniran, vratite se na Kontrolni sajt i odaberite selktujte sajtove na stranici Kloniranje."
+
+#: class/WurdeyClone.class.php:122
+#@ wurdey-child
+msgid "Display by:"
+msgstr "Prikaži po:"
+
+#: class/WurdeyClone.class.php:122
+#@ wurdey-child
+msgid "Site Name"
+msgstr "Naziv Sajta"
+
+#: class/WurdeyClone.class.php:122
+#@ wurdey-child
+msgid "URL"
+msgstr "URL"
+
+#: class/WurdeyClone.class.php:122
+#@ wurdey-child
+msgid "Clone Options"
+msgstr "Opcije za kloniranje"
+
+#: class/WurdeyClone.class.php:139
+#@ wurdey-child
+msgid "Clone Website"
+msgstr "Kloniraj sajt"
+
+#: class/WurdeyClone.class.php:148
+#@ wurdey-child
+msgid "Restore/Clone From Backup"
+msgstr "Vrati/Kloniraj sa Backup datotekom"
+
+#: class/WurdeyClone.class.php:150
+#@ wurdey-child
+msgid "Upload backup in .zip format (Maximum filesize for your server settings: "
+msgstr "Uploadujte backup datoteku u .zip formatu. (Maksimalna veličina datoteke za Vaš server je: "
+
+#: class/WurdeyClone.class.php:151
+#@ wurdey-child
+msgid "If you have a FULL backup created by your Network dashboard you may restore it by uploading here."
+msgstr "Ako image Kompletan Backup kreiran uz pomoć Wurdey plugina, možete ga uploadovati ovde."
+
+#: class/WurdeyClone.class.php:152
+#@ wurdey-child
+msgid "A database only backup will not work."
+msgstr "Backup samo baze podataka neće raditi."
+
+#: class/WurdeyClone.class.php:662
+#: class/WurdeyClone.class.php:699
+#@ wurdey-child
+msgid "No site given"
+msgstr "Nema datog sajta"
+
+#: class/WurdeyClone.class.php:667
+#: class/WurdeyClone.class.php:704
+#@ wurdey-child
+msgid "Site not found"
+msgstr "Sajt nije pronađen"
+
+#: class/WurdeyClone.class.php:679
+#@ wurdey-child
+msgid "Could not create backupfile on child"
+msgstr "Kreiranje backup datoteke na sajtu neuspešan"
+
+#: class/WurdeyClone.class.php:715
+#@ wurdey-child
+msgid "Invalid response"
+msgstr "Nevažeći odgovor"
+
+#: class/WurdeyClone.class.php:731
+#@ wurdey-child
+msgid "No download link given"
+msgstr "Link za preuzimanje nije dat"
+
+#: class/WurdeyClone.class.php:803
+#: class/WurdeyClone.class.php:832
+#@ wurdey-child
+msgid "No download file found"
+msgstr "Datoteka za preuzimanje nije pronađena"
+
+#: class/WurdeyClone.class.php:838
+#@ wurdey-child
+msgid "Backup file not found"
+msgstr "Backup datoteka nije pronađena"
+
+#: class/WurdeyClone.class.php:956
+#@ wurdey-child
+msgid "Cloning process completed successfully! Check and re-save permalinks "
+msgstr "Process kloniranja uspešno završen! Proverite i ponovo sačuvajte perma-linkove "
+
+#: class/WurdeyCloneInstall.class.php:79
+#: class/WurdeyCloneInstall.class.php:80
+#@ wurdey-child
+msgid "Not a full backup."
+msgstr "Nije kompletan backup."
+
+#: class/WurdeyCloneInstall.class.php:81
+#@ wurdey-child
+msgid "Database backup not found."
+msgstr "Backup baze podataka nije pronađen."
+
+#: class/WurdeyCloneInstall.class.php:118
+#@ wurdey-child
+msgid "Cant read configuration file from backup"
+msgstr "Nije moguće prošitati konfiguracionu datoteku iz backup-a"
+
+#: class/WurdeyCloneInstall.class.php:130
+#@ wurdey-child
+msgid "Invalid database host or user/password."
+msgstr "Nevažeći host baze podataka ili korisničko ime i lozinka."
+
+#: class/WurdeyCloneInstall.class.php:133
+#@ wurdey-child
+msgid "Invalid database name"
+msgstr "Pogrešan naziv baze podataka"
+
+#: class/WurdeyCloneInstall.class.php:239
+#@ wurdey-child
+msgid "Error importing database"
+msgstr "Greška pri unosu baze podataka"
+
+#: class/WurdeyCloneInstall.class.php:244
+#@ wurdey-child
+msgid "Error: unexpected end of file for database"
+msgstr "Greška: neočekivan kraj baze podataka"
+
+#: class/WurdeyHeatmapTracker.class.php:68
+#@ default
+msgid "Home Page"
+msgstr "Glavna strana"
+
+#: class/WurdeyHeatmapTracker.class.php:111
+#@ default
+msgid "Archive"
+msgstr "Arhiva"
+
+#: class/WurdeyHeatmapTracker.class.php:135
+#@ default
+msgid "Search"
+msgstr "Pretraži"
+
+#: class/WurdeyHeatmapTracker.class.php:144
+#@ default
+msgid "Blog Home Page"
+msgstr "Glavan strana bloga"
+
+#: class/WurdeyHelper.class.php:233
+#@ wurdey-child
+msgid "Unable to create directory "
+msgstr "Kreiranje direktorijuma nemoguće "
+
+#: class/WurdeyHelper.class.php:233
+#@ wurdey-child
+msgid " Is its parent directory writable by the server?"
+msgstr "Da li je direktorijum upisiv od strane servera?"
+
+#: class/WurdeyHelper.class.php:376
+#@ wurdey-child
+msgid "Something went wrong while contacting the child site. Please check if there is an error on the child site. This error could also be caused by trying to clone or restore a site to large for your server settings."
+msgstr "Nešto nije u redu u komunikaciji za sajtom. Molimo proverite da li ima grešaka na sajtu. Do ove greške moglo je doći ako ste pokušali klonirati sajt veći nego što je dozvoljeno u podešavanjima servera."
+
+#: class/WurdeyHelper.class.php:380
+#@ wurdey-child
+msgid "Child plugin is disabled or the security key is incorrect. Please resync with your main installation."
+msgstr "Child Plugin je isključen ili je sigurnosni ključ  pogrešan. Molimo, sinhronizujte sa Vašnom glavnom instalacijom."
+
+#: class/WurdeyClone.class.php:15
+#@ wurdey-child
+msgid "Wurdey Clone"
+msgstr "Wurdey Kloniranje"
+
+#: class/WurdeyClone.class.php:221
+#, php-format
+#@ wurdey-child
+msgid "This is a large site (%dMB), the restore process will more than likely fail."
+msgstr "Ovo je veliki sajt (%dMB), kloniranje verovatno neće uspeti."
+
+#: class/WurdeyClone.class.php:222
+#@ wurdey-child
+msgid "Continue Anyway?"
+msgstr "Nastavi u svakom slučaju?"
+
+#: class/WurdeyClone.class.php:223
+#, php-format
+#@ wurdey-child
+msgid "Creating backup on %s expected size: %dMB (estimated time: %d seconds)"
+msgstr "Kreiranje backupa na %s očekivana veličina %dMB (očekivano vreme trajanja %d sekundi)"
+
+#: class/WurdeyClone.class.php:224
+#, php-format
+#@ wurdey-child
+msgid "Backup created on %s total size to download: %dMB"
+msgstr "Backup kreiran na %s puna veličina za download: %dMB"
+
+#: class/WurdeyClone.class.php:225
+#@ wurdey-child
+msgid "Downloading backup"
+msgstr "Preuzimanje backupa"
+
+#: class/WurdeyClone.class.php:226
+#@ wurdey-child
+msgid "Backup downloaded"
+msgstr "Backup preuzet"
+
+#: class/WurdeyClone.class.php:227
+#@ wurdey-child
+msgid "Extracting backup and updating your database, this might take a while. Please be patient."
+msgstr "Raspakivanje backupa i ažuriranje baze podataka u toku, ovo može potrajati. Molimo, budite strpljivi."
+
+#: class/WurdeyClone.class.php:228
+#@ wurdey-child
+msgid "Cloning process completed successfully!"
+msgstr "Kloniranje uspešno završeno!"
+

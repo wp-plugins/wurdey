@@ -1,0 +1,848 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wurdey Child v0.29.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-02 11:29:41+0000\n"
+"Last-Translator: JayJay <info@w-d-a.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class/WurdeyChild.class.php:251
+#@ wurdey-child
+msgid "Connection Settings"
+msgstr "Verbindungseinstellungen"
+
+#: class/WurdeyChild.class.php:259
+#@ wurdey-child
+msgid "Require Unique Security ID"
+msgstr "Eine eindeutige Sicherheits-ID"
+
+#: class/WurdeyChild.class.php:262
+#@ wurdey-child
+msgid "Your Unique Security ID is:"
+msgstr "Ihre eindeutige Sicherheits-ID ist:"
+
+#: class/WurdeyChild.class.php:266
+#@ wurdey-child
+msgid "The Unique Security ID adds additional protection between the Child plugin and your<br/>Main Dashboard. The Unique Security ID will need to match when being added to <br/>the Main Dashboard. This is additional security and should not be needed in most situations."
+msgstr "Die eindeutige Sicherheits-ID bringt zusätzlichen Schutz zwischen dem Client und Ihrem<br/>Wurdey Dashboard. Die eindeutige Sicherheits-ID muß übereinstimmen, wenn sie im Wurdey Dashboard aufgenommen wird.<br/> Dies ist eine zusätzliche Sicherheit und ist in den meisten Fällen nicht erforderlich."
+
+#: class/WurdeyChild.class.php:272
+#@ wurdey-child
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: class/WurdeyChild.class.php:531
+#@ wurdey-child
+msgid "Authentication failed. Reinstall Wurdey plugin please"
+msgstr "Authentifizierung fehlgeschlagen. Installieren Sie bitte das Wurdey Plugin erneut."
+
+#: class/WurdeyChild.class.php:540
+#: class/WurdeyChild.class.php:1103
+#@ wurdey-child
+msgid "No such user"
+msgstr "Keine solche Benutzer"
+
+#: class/WurdeyChild.class.php:545
+#: class/WurdeyChild.class.php:1107
+#@ wurdey-child
+msgid "User is not an administrator"
+msgstr "Benutzer ist kein Administrator"
+
+#: class/WurdeyChild.class.php:658
+#@ wurdey-child
+msgid "Bad request."
+msgstr "Fehlerhafte Anforderung."
+
+#: class/WurdeyChild.class.php:884
+#: class/WurdeyChild.class.php:909
+#: class/WurdeyChild.class.php:962
+#: class/WurdeyChild.class.php:988
+#: class/WurdeyChild.class.php:995
+#@ wurdey-child
+msgid "Bad request"
+msgstr "Fehlerhafte Anforderung"
+
+#: class/WurdeyChild.class.php:1077
+#@ wurdey-child
+msgid "Invalid request"
+msgstr "Ungültige Anforderung"
+
+#: class/WurdeyChild.class.php:1083
+#@ wurdey-child
+msgid "Public key already set, reset the Wurdey plugin on your site and try again."
+msgstr "Öffentlicher Schlüssel bereits festgelegt, setzen Sie die Wurdey Plugin auf Ihrer Website erneut auf und versuchen Sie es noch einmal"
+
+#: class/WurdeyChild.class.php:1090
+#@ wurdey-child
+msgid "This Child Site is set to require a Unique Security ID - Please Enter It before connection can be established."
+msgstr "Dieser Client erfordert eine eindeutige Sicherheits-ID. Bitte geben Sie diese ein bevor eine Verbindung hergestellt werden kann."
+
+#: class/WurdeyChild.class.php:1094
+#@ wurdey-child
+msgid "The Unique Security ID you have entered does not match Child Security ID - Please Correct It before connection can be established."
+msgstr "Die eindeutige Sicherheits-ID die Sie eingegeben haben, entspricht nicht der Client Security ID. Bitte verbessern Sie dies bevor eine Verbindung hergestellt werden kann."
+
+#: class/WurdeyChild.class.php:1359
+#@ wurdey-child
+msgid "Could not change the admin password."
+msgstr "Das Admin-Passwort kann nicht geändern werden."
+
+#: class/WurdeyChild.class.php:1381
+#@ wurdey-child
+msgid "Undefined error"
+msgstr "Undefinierter Fehler"
+
+#: class/WurdeyChild.class.php:1395
+#, php-format
+#@ default
+msgid "Username: %s"
+msgstr "Benutzername: %s"
+
+#: class/WurdeyChild.class.php:1396
+#, php-format
+#@ default
+msgid "Password: %s"
+msgstr "Passwort: %s"
+
+#: class/WurdeyChild.class.php:1399
+#, php-format
+#@ default
+msgid "[%s] Your username and password"
+msgstr "[%s] Dein Benutzername und Passwort"
+
+#: class/WurdeyChild.class.php:2828
+#@ wurdey-child
+msgid "This site already contains a link - please disable and enable the Wurdey plugin."
+msgstr "Diese Website enthält bereits diesen Link"
+
+#: class/WurdeyChild.class.php:2950
+#@ wurdey-child
+msgid "Wordpress Filesystem error: "
+msgstr "Wordpress-Dateisystem-Fehler:"
+
+#: class/WurdeyChildServerInformation.class.php:12
+#@ wurdey
+msgid "Server Configuration"
+msgstr "Server-Konfiguration"
+
+#: class/WurdeyChildServerInformation.class.php:13
+#@ wurdey
+msgid "Suggested Value"
+msgstr "Empfohlener Wert"
+
+#: class/WurdeyChildServerInformation.class.php:14
+#: class/WurdeyChildServerInformation.class.php:56
+#@ wurdey
+msgid "Value"
+msgstr "Wert"
+
+#: class/WurdeyChildServerInformation.class.php:15
+#: class/WurdeyChildServerInformation.class.php:41
+#@ wurdey
+msgid "Status"
+msgstr "Status"
+
+#: class/WurdeyChildServerInformation.class.php:37
+#@ wurdey
+msgid "Directory name"
+msgstr "Verzeichnisname"
+
+#: class/WurdeyChildServerInformation.class.php:38
+#@ wurdey
+msgid "Path"
+msgstr "Pfad"
+
+#: class/WurdeyChildServerInformation.class.php:39
+#@ wurdey
+msgid "Check"
+msgstr "Überprüfen"
+
+#: class/WurdeyChildServerInformation.class.php:40
+#@ wurdey
+msgid "Result"
+msgstr "Ergebnis"
+
+#: class/WurdeyChildServerInformation.class.php:55
+#@ wurdey
+msgid "Server Info"
+msgstr "Server Info"
+
+#: class/WurdeyChildServerInformation.class.php:60
+#@ wurdey
+msgid "WordPress Root Directory"
+msgstr "WordPress Root-Verzeichnis"
+
+#: class/WurdeyChildServerInformation.class.php:61
+#@ wurdey
+msgid "Server Name"
+msgstr "Server Name"
+
+#: class/WurdeyChildServerInformation.class.php:62
+#@ wurdey
+msgid "Server Sofware"
+msgstr "Server Sofware"
+
+#: class/WurdeyChildServerInformation.class.php:63
+#@ wurdey
+msgid "Operating System"
+msgstr "Betriebssystem"
+
+#: class/WurdeyChildServerInformation.class.php:64
+#@ wurdey
+msgid "Architecture"
+msgstr "Architektur"
+
+#: class/WurdeyChildServerInformation.class.php:65
+#@ wurdey
+msgid "Server IP"
+msgstr "Server IP"
+
+#: class/WurdeyChildServerInformation.class.php:66
+#@ wurdey
+msgid "Server Protocol"
+msgstr "Server-Protokoll"
+
+#: class/WurdeyChildServerInformation.class.php:67
+#@ wurdey
+msgid "HTTP Host"
+msgstr "HTTP-Host"
+
+#: class/WurdeyChildServerInformation.class.php:68
+#@ wurdey
+msgid "Server Admin"
+msgstr "Server Admin"
+
+#: class/WurdeyChildServerInformation.class.php:69
+#@ wurdey
+msgid "Server Port"
+msgstr "Server Port"
+
+#: class/WurdeyChildServerInformation.class.php:70
+#@ wurdey
+msgid "Getaway Interface"
+msgstr "Getaway Schnittstelle"
+
+#: class/WurdeyChildServerInformation.class.php:71
+#@ wurdey
+msgid "Memory Usage"
+msgstr "Speicher Benutzung"
+
+#: class/WurdeyChildServerInformation.class.php:72
+#@ wurdey
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: class/WurdeyChildServerInformation.class.php:73
+#@ wurdey
+msgid "User Agent"
+msgstr "User Agent"
+
+#: class/WurdeyChildServerInformation.class.php:74
+#@ wurdey
+msgid "Complete URL"
+msgstr "Komplette URL"
+
+#: class/WurdeyChildServerInformation.class.php:75
+#@ wurdey
+msgid "Request Method"
+msgstr "Anfrage Methode"
+
+#: class/WurdeyChildServerInformation.class.php:76
+#@ wurdey
+msgid "Request Time"
+msgstr "Antwort Zeit"
+
+#: class/WurdeyChildServerInformation.class.php:77
+#@ wurdey
+msgid "Query String"
+msgstr "Übergabe String"
+
+#: class/WurdeyChildServerInformation.class.php:78
+#@ wurdey
+msgid "Accept Content"
+msgstr "Inhalt akzeptieren"
+
+#: class/WurdeyChildServerInformation.class.php:79
+#@ wurdey
+msgid "Accept-Charset Content"
+msgstr "Inhaltszeichen akzeptieren"
+
+#: class/WurdeyChildServerInformation.class.php:80
+#@ wurdey
+msgid "Currently Executing Script Pathname"
+msgstr "Aktuell ausgeführte Skript Pfadname"
+
+#: class/WurdeyChildServerInformation.class.php:81
+#@ wurdey
+msgid "Server Signature"
+msgstr "Signature Server"
+
+#: class/WurdeyChildServerInformation.class.php:82
+#@ wurdey
+msgid "Currently Executing Script"
+msgstr "Aktuell ausgeführte Skripte"
+
+#: class/WurdeyChildServerInformation.class.php:83
+#@ wurdey
+msgid "Path Translated"
+msgstr "Pfad Übersetzt"
+
+#: class/WurdeyChildServerInformation.class.php:84
+#@ wurdey
+msgid "Current Script Path"
+msgstr "Aktuelles Skript Pfad"
+
+#: class/WurdeyChildServerInformation.class.php:85
+#@ wurdey
+msgid "Current Page URI"
+msgstr "Aktuelle Seiten URI"
+
+#: class/WurdeyChildServerInformation.class.php:86
+#@ wurdey
+msgid "Remote Address"
+msgstr "Entfernte Adresse"
+
+#: class/WurdeyChildServerInformation.class.php:87
+#@ wurdey
+msgid "Remote Host"
+msgstr "Entfernter Host"
+
+#: class/WurdeyChildServerInformation.class.php:88
+#@ wurdey
+msgid "Remote Port"
+msgstr "Entfernter Port"
+
+#: class/WurdeyChildServerInformation.class.php:89
+#@ wurdey
+msgid "PHP Safe Mode"
+msgstr "PHP Safe Mode"
+
+#: class/WurdeyChildServerInformation.class.php:90
+#@ wurdey
+msgid "PHP Allow URL fopen"
+msgstr "PHP erlaubt URL fopen"
+
+#: class/WurdeyChildServerInformation.class.php:91
+#@ wurdey
+msgid "PHP Exif Support"
+msgstr "PHP unterstützt Exif"
+
+#: class/WurdeyChildServerInformation.class.php:92
+#@ wurdey
+msgid "PHP IPTC Support"
+msgstr "PHP unterstützt IPTC"
+
+#: class/WurdeyChildServerInformation.class.php:93
+#@ wurdey
+msgid "PHP XML Support"
+msgstr "PHP unterstützt XML"
+
+#: class/WurdeyChildServerInformation.class.php:94
+#@ wurdey
+msgid "SQL Mode"
+msgstr "SQL Mode"
+
+#: class/WurdeyChildServerInformation.class.php:109
+#@ wurdey
+msgid "Next due"
+msgstr "Weiter durch"
+
+#: class/WurdeyChildServerInformation.class.php:110
+#@ wurdey
+msgid "Schedule"
+msgstr "Zeitplan"
+
+#: class/WurdeyChildServerInformation.class.php:111
+#@ wurdey
+msgid "Hook"
+msgstr "Haken"
+
+#: class/WurdeyChildServerInformation.class.php:245
+#@ default
+msgid " MB"
+msgstr " MB"
+
+#: class/WurdeyChildServerInformation.class.php:246
+#: class/WurdeyChildServerInformation.class.php:336
+#: class/WurdeyChildServerInformation.class.php:371
+#: class/WurdeyChildServerInformation.class.php:400
+#@ default
+#@ wurdey
+msgid "N/A"
+msgstr "N/A"
+
+#: class/WurdeyChildServerInformation.class.php:255
+#: class/WurdeyChildServerInformation.class.php:269
+#: class/WurdeyChildServerInformation.class.php:358
+#@ default
+#@ wurdey
+msgid "ON"
+msgstr "AN"
+
+#: class/WurdeyChildServerInformation.class.php:256
+#: class/WurdeyChildServerInformation.class.php:270
+#: class/WurdeyChildServerInformation.class.php:361
+#@ default
+#@ wurdey
+msgid "OFF"
+msgstr "AUS"
+
+#: class/WurdeyChildServerInformation.class.php:264
+#@ default
+msgid "NOT SET"
+msgstr "Nicht Eingestellt"
+
+#: class/WurdeyChildServerInformation.class.php:275
+#: class/WurdeyChildServerInformation.class.php:281
+#: class/WurdeyChildServerInformation.class.php:287
+#@ default
+msgid "YES"
+msgstr "Ja"
+
+#: class/WurdeyChildServerInformation.class.php:276
+#: class/WurdeyChildServerInformation.class.php:282
+#: class/WurdeyChildServerInformation.class.php:288
+#@ default
+msgid "NO"
+msgstr "Nein"
+
+#: class/WurdeyClone.class.php:80
+#: class/WurdeyClone.class.php:192
+#@ wurdey-child
+msgid "File could not be uploaded."
+msgstr "Datei konnte nicht hochgeladen werden."
+
+#: class/WurdeyClone.class.php:85
+#: class/WurdeyClone.class.php:197
+#@ wurdey-child
+msgid "File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
+msgstr "Die Datei ist leer. Bitte laden Sie etwas mit Inhalt. Dieser Upload-Fehler könnte auch verursacht werden durhc eine Einstellung in der php.ini oder durch einstellung von post_max_size als kleiner als upload_max_filesize in der php.ini."
+
+#: class/WurdeyClone.class.php:94
+#@ wurdey-child
+msgid "Clone or Restore"
+msgstr "Klonen oder wiederherstellen"
+
+#: class/WurdeyClone.class.php:98
+#@ wurdey-child
+msgid "Cloning is currently off - To turn on return to your main dashboard and turn cloning on on the Migrate/Clone page."
+msgstr "Klonen ist derzeit aus - Zum aktivieren des Klones, auf der Wurdey Dashboards auf Klonen gehen"
+
+#: class/WurdeyClone.class.php:106
+#: class/WurdeyClone.class.php:211
+#@ wurdey-child
+msgid "Your content directory is not writable. Please set 0755 permission to "
+msgstr "Das Inhalte Verzeichnis ist nicht beschreibbar. Bitte die Berechtigung setzen auf 0755."
+
+#: class/WurdeyClone.class.php:110
+#@ wurdey-child
+msgid "Cloning process completed successfully! You will now need to click "
+msgstr "Klonen erfolgreich abgeschlossen! Sie müssen nun Klicken"
+
+#: class/WurdeyClone.class.php:110
+#: class/WurdeyClone.class.php:215
+#: class/WurdeyClone.class.php:1333
+#: class/WurdeyClone.class.php:1362
+#@ wurdey-child
+msgid "here"
+msgstr "hier"
+
+#: class/WurdeyClone.class.php:110
+#: class/WurdeyClone.class.php:215
+#: class/WurdeyClone.class.php:1362
+#@ wurdey-child
+msgid " to re-login to the admin and re-save permalinks."
+msgstr "sich erneut anmelden, um den Admin und erneut speichern des Permalinks."
+
+#: class/WurdeyClone.class.php:115
+#: class/WurdeyClone.class.php:220
+#@ wurdey-child
+msgid "Upload successful."
+msgstr "Hochladen erfolgreich."
+
+#: class/WurdeyClone.class.php:115
+#: class/WurdeyClone.class.php:165
+#: class/WurdeyClone.class.php:390
+#@ wurdey-child
+msgid "Clone/Restore Website"
+msgstr "Klonen / Wiederherstellen Webseite"
+
+#: class/WurdeyClone.class.php:126
+#@ wurdey-child
+msgid "Cloning is currently on but no sites have been allowed, to allow sites return to your main dashboard and turn cloning on on the Migrate/Clone page."
+msgstr "Klonen ist derzeit erlaubt, aber keine Seite hat es erlaubt. "
+
+#: class/WurdeyClone.class.php:134
+#@ wurdey-child
+msgid "Display by:"
+msgstr "Anzeige von:"
+
+#: class/WurdeyClone.class.php:134
+#@ wurdey-child
+msgid "Site Name"
+msgstr "Seitenname"
+
+#: class/WurdeyClone.class.php:134
+#@ wurdey-child
+msgid "URL"
+msgstr "URL"
+
+#: class/WurdeyClone.class.php:134
+#@ wurdey-child
+msgid "Clone Options"
+msgstr "Einstellung Klonen"
+
+#: class/WurdeyClone.class.php:151
+#@ wurdey-child
+msgid "Clone Website"
+msgstr "Webseite Klonen"
+
+#: class/WurdeyClone.class.php:160
+#@ wurdey-child
+msgid "Restore/Clone From Backup"
+msgstr "Wiederherstellen/Klonen von Datensicherung"
+
+#: class/WurdeyClone.class.php:162
+#: class/WurdeyClone.class.php:229
+#@ wurdey-child
+msgid "Upload backup in .zip format (Maximum filesize for your server settings: "
+msgstr "Hochladen der Datensicherungsdatei im .zip Format (Maximale Dateigröße Server-Einstellungen:"
+
+#: class/WurdeyClone.class.php:163
+#: class/WurdeyClone.class.php:230
+#@ wurdey-child
+msgid "If you have a FULL backup created by your Network dashboard you may restore it by uploading here."
+msgstr "Wenn Sie eine vollständige Sicherung von Ihrem Netzwerk-Dashboard erstellt haben, können Sie es von hier Hochladen um es wiederherzustellen."
+
+#: class/WurdeyClone.class.php:164
+#: class/WurdeyClone.class.php:231
+#@ wurdey-child
+msgid "A database only backup will not work."
+msgstr "Eine einziges Datenbank-Backup wird nicht funktionieren."
+
+#: class/WurdeyClone.class.php:468
+#, php-format
+#@ wurdey-child
+msgid "This is a large site (%dMB), the restore process will more than likely fail."
+msgstr "Dies ist eine große Seite (%dMB), der Klon-Prozess wird mehr als wahrscheinlich scheitern."
+
+#: class/WurdeyClone.class.php:469
+#@ wurdey-child
+msgid "Continue Anyway?"
+msgstr "Trotzdem fortfahren?"
+
+#: class/WurdeyClone.class.php:470
+#, php-format
+#@ wurdey-child
+msgid "Creating backup on %s expected size: %dMB (estimated time: %d seconds)"
+msgstr "Erstellen von Backup auf %s erwarteten Größe: %dMB (geschätzte Zeit: %d in Sekunden)"
+
+#: class/WurdeyClone.class.php:471
+#, php-format
+#@ wurdey-child
+msgid "Backup created on %s total size to download: %dMB"
+msgstr "Backup erstellt auf %s Gesamtgröße zum Download: %dMB"
+
+#: class/WurdeyClone.class.php:472
+#@ wurdey-child
+msgid "Downloading backup"
+msgstr "Herunterladen der Datensicherung"
+
+#: class/WurdeyClone.class.php:473
+#@ wurdey-child
+msgid "Backup downloaded"
+msgstr "Datensicherung heruntergeladen"
+
+#: class/WurdeyClone.class.php:474
+#@ wurdey-child
+msgid "Extracting backup and updating your database, this might take a while. Please be patient."
+msgstr "Auspacken der Datensicherung und Aktualisierung  Ihre Datenbank. Dies könnte eine Weile dauern. Bitte haben Sie Geduld."
+
+#: class/WurdeyClone.class.php:475
+#@ wurdey-child
+msgid "Cloning process completed successfully!"
+msgstr "Klonen erfolgreich abgeschlossen!"
+
+#: class/WurdeyClone.class.php:1019
+#: class/WurdeyClone.class.php:1056
+#@ wurdey-child
+msgid "No site given"
+msgstr "Kein Seite angegeben"
+
+#: class/WurdeyClone.class.php:1024
+#: class/WurdeyClone.class.php:1061
+#@ wurdey-child
+msgid "Site not found"
+msgstr "Seite nicht gefunden"
+
+#: class/WurdeyClone.class.php:1036
+#@ wurdey-child
+msgid "Could not create backupfile on child"
+msgstr "Konnte Datensicherungsdatei nicht auf dem Client erstellen"
+
+#: class/WurdeyClone.class.php:1072
+#@ wurdey-child
+msgid "Invalid response"
+msgstr "Ungültige Antwort"
+
+#: class/WurdeyClone.class.php:1088
+#@ wurdey-child
+msgid "No download link given"
+msgstr "Keinen Download-Link angegeben"
+
+#: class/WurdeyClone.class.php:1163
+#: class/WurdeyClone.class.php:1189
+#@ wurdey-child
+msgid "No download file found"
+msgstr "Keine Download-Datei gefunden"
+
+#: class/WurdeyClone.class.php:1195
+#@ wurdey-child
+msgid "Backup file not found"
+msgstr "Datensicherungsdatei nicht gefunden"
+
+#: class/WurdeyClone.class.php:1333
+#@ wurdey-child
+msgid "Restore process completed successfully! Check and re-save permalinks "
+msgstr "Wiederherstellungs-Vorgang erfolgreich abgeschlossen! Überprüfen und Permalinks erneut speichern"
+
+#: class/WurdeyClone.class.php:1333
+#@ wurdey-child
+msgid "Cloning process completed successfully! Check and re-save permalinks "
+msgstr "Klonen erfolgreich abgeschlossen! Überprüfen und Permalinks erneut speichern"
+
+#: class/WurdeyClone.class.php:205
+#: class/WurdeyClone.class.php:1357
+#@ wurdey-child
+msgid "Restore"
+msgstr "Wiederherstellen"
+
+#: class/WurdeyClone.class.php:1359
+#@ wurdey-child
+msgid "Be sure to use a FULL backup created by your Network dashboard, if critical folders are excluded it may result in a not working installation."
+msgstr "Achten Sie darauf, eine vollständige Sicherung von Ihrem Wurdey Dashboard zu erstellen."
+
+#: class/WurdeyClone.class.php:1360
+#@ wurdey-child
+msgid "Start Restore"
+msgstr "Wiederherstellung starten"
+
+#: class/WurdeyClone.class.php:1360
+#@ wurdey-child
+msgid "CAUTION: this will overwrite your existing site."
+msgstr "ACHTUNG: dies wird Ihre bestehende Seite überschreiben."
+
+#: class/WurdeyClone.class.php:215
+#: class/WurdeyClone.class.php:1362
+#@ wurdey-child
+msgid "Restore process completed successfully! You will now need to click "
+msgstr "Wiederherstellungsvorgang erfolgreich abgeschlossen! Sie müssen nun klicken"
+
+#: class/WurdeyClone.class.php:1366
+#@ wurdey-child
+msgid "Restore process completed successfully!"
+msgstr "Wiederherstellungsvorgang erfolgreich abgeschlossen!"
+
+#: class/WurdeyCloneInstall.class.php:84
+#: class/WurdeyCloneInstall.class.php:85
+#@ wurdey-child
+msgid "Not a full backup."
+msgstr "Keine gesamte Datensicherung."
+
+#: class/WurdeyCloneInstall.class.php:86
+#@ wurdey-child
+msgid "Database backup not found."
+msgstr "Datenbank-Sicherung nicht gefunden."
+
+#: class/WurdeyCloneInstall.class.php:123
+#@ wurdey-child
+msgid "Cant read configuration file from backup"
+msgstr "Kann Konfigurationsdatei nicht lesen aus der Datensicherung"
+
+#: class/WurdeyCloneInstall.class.php:138
+#@ wurdey-child
+msgid "Invalid database host or user/password."
+msgstr "Ungültige Datenbank-Host oder Benutzer / Passwort."
+
+#: class/WurdeyCloneInstall.class.php:141
+#@ wurdey-child
+msgid "Invalid database name"
+msgstr "Ungültiger Datenbanknamen"
+
+#: class/WurdeyCloneInstall.class.php:276
+#: class/WurdeyCloneInstall.class.php:380
+#@ wurdey-child
+msgid "Error: unexpected end of file for database"
+msgstr "Fehler: unerwartetes Ende der Datei für die Datenbank"
+
+#: class/WurdeyCloneInstall.class.php:375
+#@ wurdey-child
+msgid "Error importing database"
+msgstr "Fehler beim Importieren der Datenbank"
+
+#: class/WurdeyHeatmapTracker.class.php:68
+#@ default
+msgid "Home Page"
+msgstr "Home Page"
+
+#: class/WurdeyHeatmapTracker.class.php:111
+#@ default
+msgid "Archive"
+msgstr "Archivieren"
+
+#: class/WurdeyHeatmapTracker.class.php:135
+#@ default
+msgid "Search"
+msgstr "Suchen"
+
+#: class/WurdeyHeatmapTracker.class.php:144
+#@ default
+msgid "Blog Home Page"
+msgstr "Blog Startseite"
+
+#: class/WurdeyHelper.class.php:258
+#@ wurdey-child
+msgid "Unable to create directory "
+msgstr "Verzeichnis kann nicht erstellt"
+
+#: class/WurdeyHelper.class.php:258
+#@ wurdey-child
+msgid " Is its parent directory writable by the server?"
+msgstr "Ist das übergeordnete Verzeichnis durch den Server beschreibbar?"
+
+#: class/WurdeyHelper.class.php:450
+#@ wurdey-child
+msgid "Something went wrong while contacting the child site. Please check if there is an error on the child site. This error could also be caused by trying to clone or restore a site to large for your server settings."
+msgstr "Etwas ist schiefgelaufen, während der Verbindung zum Client. Bitte überprüfen Sie, ob es einen Fehler von der Client Webseite ist."
+
+#: class/WurdeyHelper.class.php:454
+#@ wurdey-child
+msgid "Child plugin is disabled or the security key is incorrect. Please resync with your main installation."
+msgstr "Wurdey Clhild Plugin ist deaktiviert oder der Sicherheitsschlüssel ist falsch."
+
+#: class/WurdeyChildBranding.class.php:447
+#@ default
+msgid "Error: send mail failed."
+msgstr "Fehler: E-Mail senden gescheitert."
+
+#: class/WurdeyChildBranding.class.php:485
+#@ default
+msgid "Submit"
+msgstr "Senden"
+
+#: class/WurdeyClone.class.php:17
+#@ wurdey-child
+msgid " Clone"
+msgstr "Klon"
+
+#: class/WurdeyClone.class.php:25
+#@ wurdey-child
+msgid " Restore"
+msgstr " Wiederherstellen"
+
+#: class/WurdeyClone.class.php:160
+#: class/WurdeyClone.class.php:205
+#@ wurdey-child
+msgid "Option 1:"
+msgstr "Option 1:"
+
+#: class/WurdeyClone.class.php:220
+#: class/WurdeyClone.class.php:232
+#@ wurdey-child
+msgid "Restore Website"
+msgstr "Wiederherstellen Webseite"
+
+#: class/WurdeyClone.class.php:274
+#@ wurdey-child
+msgid "Option 2:"
+msgstr "Option 2:"
+
+#: class/WurdeyClone.class.php:274
+#@ wurdey-child
+msgid "Restore/Clone From Server"
+msgstr "Wiederherstellen / Klonen vom Server"
+
+#: class/WurdeyClone.class.php:275
+#@ wurdey-child
+msgid "If you have uploaded a FULL backup to your server (via FTP or other means) you can use this section to locate the zip file and select it.  A database only backup will not work."
+msgstr "Wenn Sie eine vollständige Sicherung auf den Server hochgeladen haben (via FTP oder andere Mittel) können Sie diesen Abschnitt verwenden um die ZIP-Datei auszuwählen. Nur ein Datenbank Backup wird nicht funktionieren."
+
+#: class/WurdeyClone.class.php:278
+#@ wurdey-child
+msgid "Root directory is not readable. Please contact with site administrator to correct."
+msgstr "Root-Verzeichnis ist nicht lesbar. Bitte Administrator kontaktieren zum korrigieren."
+
+#: class/WurdeyClone.class.php:294
+#@ wurdey
+msgid "<strong>Current Directory:</strong> <span></span>"
+msgstr "<strong>Aktuelles Verzeichnis:</strong> <span></span>"
+
+#: class/WurdeyClone.class.php:296
+#@ wurdey
+msgid "Site Root"
+msgstr "Site Root"
+
+#: class/WurdeyClone.class.php:297
+#@ wurdey
+msgid "Backup"
+msgstr "Sicherungskopie"
+
+#: class/WurdeyClone.class.php:299
+#@ wurdey
+msgid "Uploads Folder"
+msgstr "Uploads Ordner"
+
+#: class/WurdeyClone.class.php:300
+#@ wurdey
+msgid "Content Folder"
+msgstr "Inhalts Ordner"
+
+#: class/WurdeyClone.class.php:313
+#@ wurdey
+msgid "Quick Jump:"
+msgstr "Quick Jump:"
+
+#: class/WurdeyClone.class.php:343
+#@ wurdey-child
+msgid "Select File"
+msgstr "Wählen Sie Datei"
+
+#: class/WurdeyClone.class.php:348
+#@ wurdey
+msgid "Parent Folder"
+msgstr "Parent Folder"
+
+#: class/WurdeyChildServerInformation.class.php:468
+#@ wurdey
+msgid "Time"
+msgstr "Zeit"
+
+#: class/WurdeyChildServerInformation.class.php:469
+#@ wurdey
+msgid "Error"
+msgstr "Fehler"
+
+#: class/WurdeyChildServerInformation.class.php:483
+#@ wurdey
+msgid "Error logging disabled."
+msgstr "Fehlerprotokollierung deaktiviert."
+
+#: class/WurdeyChildServerInformation.class.php:501
+#@ wurdey
+msgid "No errors found... Yet."
+msgstr "Keine Fehler gefunden ... zurzeit."
+
