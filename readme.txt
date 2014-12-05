@@ -15,7 +15,7 @@ This plugin provides a secure connection between your WordPress website and the 
 
 == Description ==
 
-[Wurdey](https://www.wurdey.com) is a managed WordPress maintenance platform which performs wordpress updates, security checks, backups, performance optimization and more. Our service prevents all of the issues typical users encounter while managing their WordPress website management. Using [Wurdey](https://www.wurdey.com) also decreses website loading time, locks your site down agaist malware and hackers, but most importantly it lets you focus on more important issues with no worries about your website.
+[Wurdey](https://www.wurdey.com) is a managed WordPress maintenance platform which performs wordpress updates, security checks, backups, performance optimization and more. Our service prevents all of the issues typical users encounter while managing their WordPress website. Using [Wurdey](https://www.wurdey.com) also decreses website load time, locks your site down agaist malware and hackers, but most importantly it lets you focus on other things with no worries about your website.
 
 **Features include:**
 
