@@ -27,15 +27,13 @@ This plugin provides a secure connection between your WordPress website and the 
 * Performance Caching
 * Downtime Monitoring
 
-Hosting on our SSD Servers w/ Exchance Email is Optional but not required.
-
 A subscription to the [Wurdey](https://www.wurdey.com) WordPress maintenance service is required for the plugin to work.
 
 == Installation ==
 
 1. Upload the Wurdey folder to the /wp-content/plugins/ directory
 2. Activate the Wurdey plugin through the 'Plugins' menu in WordPress
-3. Contact Wurdey via Support Ticket or Live Chat to Activate your maintenance service (subscription required)
+3. Contact Wurdey via support ticket or live chat to activate your maintenance service (subscription required)
 
 == Frequently Asked Questions ==
 
