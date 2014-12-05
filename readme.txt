@@ -15,21 +15,20 @@ This plugin provides a secure connection between your WordPress website and the 
 
 == Description ==
 
-The Wurdey plugin is used so the installed blog can be securely and remotely managed by the Wurdey Team.
-
-[Wurdey](https://www.wurdey.com) is a managed WordPress maintenance platform which automates wordpress updates, security, backups, performance optimization and more.
+[Wurdey](https://www.wurdey.com) is a managed WordPress maintenance platform which automates wordpress updates, security, backups, performance optimization and more. Our service removes the worry and concerns of WordPress website maintenance and management.
 
 **Features include:**
- 
 * Daily Wordpress, Plugin and Theme Updates
+* Database Optimization & Repair
 * Website Firewall
-* Database Optimization
 * Malware Scanning
 * Offsite Backups
 * Performance Caching
 * Downtime Monitoring
-* SSD Hosting (Optional)
 
+Hosting on our SSD Servers w/ Exchance Email is Optional but not required.
+
+A subscription to the [Wurdey](https://www.wurdey.com) WordPress maintenance service is required for the plugin to work.
 
 == Installation ==
 
@@ -40,13 +39,13 @@ The Wurdey plugin is used so the installed blog can be securely and remotely man
 
 = What is the purpose of this plugin? =
 
-It allows the connection between Wurdey maintenance servers and the site it is installed on.
+It allows the connection between Wurdey maintenance servers and the WordPress site it is installed on.
 
-To see a full description and FAQs please visit [Wurdey Documentation](https://www.wurdey.com/)
+To see a full description please visit [Wurdey](https://www.wurdey.com/)
 
 == Screenshots ==
 
-1. The Plugin Screen
+1. Detailed Reporting
 
 == Changelog ==
 
