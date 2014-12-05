@@ -18,6 +18,7 @@ This plugin provides a secure connection between your WordPress website and the 
 [Wurdey](https://www.wurdey.com) is a managed WordPress maintenance platform which automates wordpress updates, security, backups, performance optimization and more. Our service removes the worry and concerns of WordPress website maintenance and management.
 
 **Features include:**
+
 * Daily Wordpress, Plugin and Theme Updates
 * Database Optimization & Repair
 * Website Firewall
